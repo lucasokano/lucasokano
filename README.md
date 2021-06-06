@@ -1,16 +1,14 @@
-### Hi there 👋
+### Seja bem-vindo(a), visitante 👋
 
-<!--
-**lucasokano/lucasokano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu me chamo Lucas Okano, tenho estudado e me especializado em Front-end. Atualmente estou cursando ciência da computação na UFRGS.
 
-Here are some ideas to get you started:
+Estou a procura de um estágio na área de desenvolvimento Web.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+## Aqui nesse perfil, você encontrará alguns projetos que eu tenho usado como portfólio para demonstrar minhas habilidades em programação. 
+
+A ferramenta que eu mais utilizo é o REACT.JS.
+
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-okano-5510b21ab/)](https://www.linkedin.com/in/lucas-okano-5510b21ab/)
+
