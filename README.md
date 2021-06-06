@@ -4,7 +4,7 @@ Eu me chamo Lucas Okano, tenho estudado e me especializado em Front-end. Atualme
 
 Estou a procura de um estágio na área de desenvolvimento Web.
 
-## Aqui nesse perfil, você encontrará alguns projetos que eu tenho usado como portfólio para demonstrar minhas habilidades em programação. 
+### Aqui nesse perfil, você encontrará alguns projetos que eu tenho usado como portfólio para demonstrar minhas habilidades em programação. 
 
 A ferramenta que eu mais utilizo é o REACT.JS.
 
