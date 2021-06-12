@@ -14,6 +14,7 @@ A ferramenta que eu mais utilizo é o REACT.JS, geralmente utilizo a biblioteca 
 - projeto-2 
 - projeto-3 Tipos de Header
 - projeto-4 Site com menu lateral s/ Header (perfeito para organizar uma lista com vários exemplos visuais)
+- projeto-5 Calculadora feita com componentes react.
 
 
 
