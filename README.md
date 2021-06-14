@@ -6,15 +6,15 @@ Estou a procura de um estágio na área de desenvolvimento Web.
 
 ### Aqui nesse perfil, você encontrará alguns projetos que eu tenho usado como portfólio para demonstrar minhas habilidades em programação. 
 
-A ferramenta que eu mais utilizo é o REACT.JS, geralmente utilizo a biblioteca do Router. 
+A ferramenta de front-end que eu utilizo é o REACT.JS. 
 
-## Índice das pastas de projetos feitos com o REACT.JS / 
+## Índice dos repositórios com projetos feitos utilizando o REACT.JS / Routes / Hooks
 - projeto-0 Teste
 - projeto-1 Jogo da velha do tutorial do React.js
 - projeto-2 
-- projeto-3 Tipos de Header
+- projeto-3 Página com vários modelos de Header
 - projeto-4 Site com menu lateral s/ Header (perfeito para organizar uma lista com vários exemplos visuais)
-- projeto-5 Calculadora feita com componentes react.
+- projeto-5 Calculadora feita com 2 componentes (display e button)
 
 
 
