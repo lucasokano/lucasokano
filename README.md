@@ -32,7 +32,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
       </td>
       <td width="25%" align="center">
         <span>CSS</span><br><br><br>
-        <img height="64px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fworldvectorlogo.com%2Fpt%2Flogo%2Fphp-1&psig=AOvVaw1sneB8EoGkJ-VF1EUStF3F&ust=1624315987551000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCKDZ-96mp_ECFQAAAAAdAAAAABAI">
+        <img height="64px" src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png">
       </td>
       <td width="25%" align="center">
         <span>Javascript</span><br><br><br>
