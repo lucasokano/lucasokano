@@ -41,8 +41,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
       <td width="25%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
-      </td>
-           
+      </td>    
     </tr>
   </tbody>
 </table>
