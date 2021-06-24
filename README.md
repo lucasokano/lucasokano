@@ -16,6 +16,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
 - projeto-4 Site com menu lateral s/ Header (perfeito para organizar uma lista com vários exemplos visuais)
 - projeto-5 Calculadora feita com 2 componentes (display e button)
 - projeto-6 Site com animações
+- projeto-7 Site responsivo com animações css
 
 
 
