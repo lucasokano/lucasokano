@@ -11,12 +11,13 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
 ## Índice dos repositórios com projetos feitos utilizando o REACT.JS / Routes / Hooks
 - projeto-0 Testando colocar projetos react no git
 - projeto-1 Jogo da velha do tutorial do React.js
-- projeto-2 
+- projeto-2 Em desenvolvimento...
 - projeto-3 Página com vários modelos de Header
 - projeto-4 Site com menu lateral s/ Header (perfeito para organizar uma lista com vários exemplos visuais)
 - projeto-5 Calculadora feita com 2 componentes (display e button)
 - projeto-6 Site com heading que alterna texto, animado com css
 - projeto-7 Site responsivo com animações css
+- projeto-8 Site no qual os elementos aparecem de vários lados
 
 
 
