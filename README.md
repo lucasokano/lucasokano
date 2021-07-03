@@ -49,8 +49,6 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
         <span>SVG</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/svg-1.svg">
       </td>
-      
-      
     </tr>
   </tbody>
 </table>
