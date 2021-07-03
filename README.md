@@ -29,23 +29,23 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
 <table>
   <tbody>
     <tr valign="top">
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>HTML</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/html5-2.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>CSS</span><br><br><br>
         <img height="64px" src="https://seeklogo.com/images/C/css3-logo-FD8D698B77-seeklogo.com.png">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>Javascript</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>React</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
       </td>
-      <td width="25%" align="center">
+      <td width="20%" align="center">
         <span>SVG</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/svg-1.svg">
       </td>
