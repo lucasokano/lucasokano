@@ -18,7 +18,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
 - projeto-6 Site com heading que alterna texto, animado com css
 - projeto-7 Site responsivo com animações css
 - projeto-8 Site no qual os elementos aparecem de vários lados
-- projeto-9
+- projeto-9 Site baseado no site da Apple
 - projeto-10
 
 
