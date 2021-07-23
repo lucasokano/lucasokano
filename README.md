@@ -52,9 +52,11 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
         <span>SVG</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/svg-1.svg">
       </td>
-      <td width="20%" align="center">
+    </tr>
+      <tr valign="top">
+       <td width="20%" align="center">
         <span>Redux</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/svg-1.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
       </td>
     </tr>
   </tbody>
