@@ -19,8 +19,9 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
 - projeto-7 Site responsivo com animações css
 - projeto-8 Site no qual os elementos aparecem de vários lados
 - projeto-9 Site baseado no site da Apple
-- projeto-10 Site com carrossel 
-- projeto-11 Site com produto 3d
+- projeto-10 Site com carrossel (em desenvolvimento)
+- projeto-11 Site com produto 3d (em desenvolvimento)
+- projeto-12 Recriando site do Nubank
 
 
 
