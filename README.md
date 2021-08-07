@@ -28,7 +28,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
 
 
 
-## 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+## FRONTEND - 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
 
 <table>
   <tbody>
@@ -67,6 +67,33 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
   </tbody>
 </table>
 
+## BACKEND - 𝗪𝗵𝗮𝘁 𝗜 𝗨𝘀𝗲
+
+<table>
+  <tbody>
+    <tr valign="top">
+      <td width="20%" align="center">
+        <span>Node.js</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Express</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/express-109.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>MongoDB</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>MySQL</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+      </td>
+      <td width="20%" align="center">
+        <span>Mongoose</span><br><br><br>
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg">
+      </td>
+   </tbody>
+</table>
 
 
 
