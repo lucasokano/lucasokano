@@ -46,7 +46,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
       </td>
       <td width="20%" align="center">
-        <span>React</span><br><br><br>
+        <span>React.js</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
       </td>
       <td width="20%" align="center">
