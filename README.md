@@ -1,6 +1,6 @@
 ## Seja bem-vindo(a), visitante 👋
 
-Eu me chamo Lucas Okano, tenho estudado e me especializado em Front-end. Atualmente estou cursando ciência da computação na UFRGS.
+Eu me chamo Lucas Okano, tenho estudado e me especializado em Frontend. Atualmente estou cursando ciência da computação na UFRGS.
 
 Estou a procura de um estágio na área de desenvolvimento Web.
 
