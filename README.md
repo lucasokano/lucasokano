@@ -49,10 +49,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
         <span>React.js</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
       </td>
-      <td width="20%" align="center">
-        <span>SVG</span><br><br><br>
-        <img height="64px" src="[https://cdn.worldvectorlogo.com/logos/svg-1.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/SVG_Logo.svg/2048px-SVG_Logo.svg.png)">
-      </td>
+      
     </tr>
     <tr valign="top">
        <td width="20%" align="center">
