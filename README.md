@@ -49,10 +49,8 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
         <span>React.js</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-1.svg">
       </td>
-       <td width="20%" align="center">
-        <span></span></span><br><br><br>
-        
-      </td>
+       
+      
     </tr>
     <tr valign="top">
        <td width="20%" align="center">
@@ -88,10 +86,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
         <span>MySQL</span><br><br><br>
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
       </td>
-      <td width="20%" align="center">
-        <span>Mongoose</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/mongoose-1.svg">
-      </td>
+      
    </tbody>
 </table>
 
