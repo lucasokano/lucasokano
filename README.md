@@ -52,16 +52,7 @@ A ferramenta de front-end que eu utilizo é o REACT.JS.
        
       
     </tr>
-    <tr valign="top">
-       <td width="20%" align="center">
-        <span>Redux</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-      </td>
-      <td width="20%" align="center">
-        <span>jQuery</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/jquery-1.svg">
-      </td>
-    </tr>
+   
   </tbody>
 </table>
 
